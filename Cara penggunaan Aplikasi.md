@@ -7,3 +7,7 @@ Cara install dan penggunaan aplikasi :
 6. Masuk ke halaman localhost:8000/login
 7. Login dengan username : "admin"/ "manager" Password ; 12345
 9. Aplikasi dapat digunakan
+
+Ketentuan role :
+Admin dan manager dapat mengakses semua menu
+Untuk approval project hanya bisa dilakukan jika login sebagai manager
