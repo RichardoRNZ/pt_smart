@@ -9,5 +9,5 @@ Cara install dan penggunaan aplikasi :
 9. Aplikasi dapat digunakan
 
 Ketentuan role :
-Admin dan manager dapat mengakses semua menu
-Untuk approval project hanya bisa dilakukan jika login sebagai manager
+1. Admin dan manager dapat mengakses semua menu
+2. Untuk approval project hanya bisa dilakukan jika login sebagai manager
